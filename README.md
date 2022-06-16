@@ -1,2 +1,2 @@
 # openCV_projects
-repo for my openCV porjects
+repo for my openCV projects
